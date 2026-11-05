@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+requests
+pingouin
+scikit-posthocs
+pytest
+nbformat
+nbconvert
+nbclient
+ipykernel
+jupyter
